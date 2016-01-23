@@ -1,4 +1,4 @@
-package com.pcjoshi.stmr;
+package com.om.stmr;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.logging.Logger;
